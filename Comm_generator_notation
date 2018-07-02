@@ -1,0 +1,15 @@
+ Using Ed Trice's notation, + means clockwise, - means counterclockwise, 2 is two turns of course. There are only 2 "face" designations: Top, Front, and Right. The prefix to T, F, and R just means the slice number counted from the top, front, or right.
+
+Therefore:
+
+1T+ = U
+1T- = U'
+1T2 = U2
+
+2T+ = either 2U in SiGN notation or u if that means a single slice turn or uU' if u means turn the outer layer and the first inner layer both as a block turn, then just turn the outer layer back. So much confusion in the notation is why I came up with this one!
+
+The thing to remember is 3T+ spins in the same direction as 1T+, as does 4T+ and 5T+.
+
+Usually, speed cubers reverse the direction of rotation once crossing over the "halfway" mark on a cube face, so that 4T+ = 2D' in SiGN, and 5T+ = D' in SiGN.
+
+I found myself having to "pause" to "think from the left" (or the bottom, or the back) when reading WCA notation, but using my notation, it's all "right handed" and seems simpler.
